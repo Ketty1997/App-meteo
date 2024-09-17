@@ -27,7 +27,7 @@ async function onSuccess(position) {
     const longitude = position.coords.longitude;
 
     //prepariamoci a chiamare l'Api di open weather
-    const API_KEY = 'dfde5139a01417a92e128a0dcbd00ab2';
+
     const units = 'metric';
     const lang = 'it'
 
